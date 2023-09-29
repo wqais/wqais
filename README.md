@@ -1,6 +1,6 @@
  # Hi there 👋, my name is Qais Warekar.
  
- I'm an aspiring developer. Experience building websites and projects in React.js, PHP, C#.NET and Java, etc. Finished my BCA in May 2023!
+ I'm an aspiring developer. Experience building websites and projects in React.js, PHP, C#.NET and Java, etc. Currently pursuing MCA at SPIT, Andheri.
   
 - 🌱 I underwent a **Full Stack Web Development Course on Udemy**.
 ---
